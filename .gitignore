@@ -1,0 +1,6 @@
+log/
+*.log
+config.php
+*.swp
+single_test.php
+simulate.php
